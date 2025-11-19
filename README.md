@@ -63,6 +63,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanslmnop&show_icons=true&locale=en&layout=compact&theme=radical" alt="hanslmnop" height="180" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanslmnop&theme=radical" alt="hanslmnop" height="180" />
-</p>
+
