@@ -1,66 +1,47 @@
-<h1 align="center">Hello, Welcome To My Git Profile 👋</h1>
-<h3 align="center">Sydney, Australia 🇦🇺</h3>
+<div align="center">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=hanslmnop&label=Profile%20views&color=0e75b6&style=flat" alt="hanslmnop" /> 
-</p>
+<!-- Futuristic ASCII Art -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=%3E+Hello,+Welcome+To+My+Git+Profile+%F0%9F%91%8B;%3E+Sydney,+Australia+%F0%9F%87%A6%F0%9F%87%BA;%3E+Computer+Science+%26+Chemistry;%3E+Scientific+Computing+%26+ML" alt="Typing Animation" />
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hanslmnop" alt="GitHub Trophies" />
-  </a>
-</p>
+<!-- Cyberpunk Style Banner -->
+<img src="https://i.imgur.com/3J7W7q9.gif" width="100%" alt="Cyberpunk Banner" />
 
----
+<!-- Profile Metrics -->
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=hanslmnop&label=PROFILE+VISITS&color=00D4FF&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Dynamic/JSON?style=for-the-badge&color=00D4FF&label=REPOSITORIES&query=%24.public_repos&url=https://api.github.com/users/hanslmnop&labelColor=0d1117" alt="Repositories" />
+  
+</div>
 
-## 🎓 Education
+<br/>
 
-**University of Queensland**
-- **Bachelor of Computer Science (2024-Present)** - Scientific Computing / Machine Learning
-- **Bachelor of Science (2024-Present)** - Chemistry
+<!-- Animated Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hanslmnop&theme=onedark&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
----
+<!-- Cyber Divider -->
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/refs/heads/main/assets/line-neon.gif" width="100%">
 
-## 🔗 Connect with me
+</div>
 
-<p align="left">
-  <a href="https://www.leetcode.com/mangomustard" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-</p>
+## 🚀 SYSTEM_PROFILE.exe
 
----
+```bash
+# TERMINAL OUTPUT
+> whoami
+USER: Hans
+LOCATION: Sydney, AU 🇦🇺
+STATUS: Computer Science & Chemistry Student
+SPECIALIZATION: Scientific Computing & Machine Learning
 
-## 💻 Languages and Tools
+> cat education.txt
+UNIVERSITY: University of Queensland
+DEGREE_1: Bachelor of Computer Science [2024-Present]
+MAJOR_1: Scientific Computing / Machine Learning
+DEGREE_2: Bachelor of Science [2024-Present]  
+MAJOR_2: Chemistry
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanslmnop&show_icons=true&locale=en&theme=radical" alt="hanslmnop" height="180" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanslmnop&show_icons=true&locale=en&layout=compact&theme=radical" alt="hanslmnop" height="180" />
-</p>
-
-
+> ls skills/
+machine_learning/  data_science/  scientific_computing/  ai_research/
