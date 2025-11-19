@@ -1,9 +1,7 @@
 <h1 align="center">Hello, Welcome To My Git Profile</h1>
 <h3 align="center">Sydney, Australia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanslmnop&label=Profile%20views&color=0e75b6&style=flat" alt="hanslmnop" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanslmnop" alt="hanslmnop" /></a> </p>
 
 - Bachelor of Computer Science **Scientific Computing/Machine Learning**
 
