@@ -3,8 +3,7 @@
 <!-- Futuristic ASCII Art -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=%3E+Hello,+Welcome+To+My+Git+Profile+%F0%9F%91%8B;%3E+Sydney,+Australia+%F0%9F%87%A6%F0%9F%87%BA;%3E+Computer+Science+%26+Chemistry;%3E+Scientific+Computing+%26+ML" alt="Typing Animation" />
 
-<!-- Cyberpunk Style Banner -->
-<img src="https://i.imgur.com/3J7W7q9.gif" width="100%" alt="Cyberpunk Banner" />
+
 
 <!-- Profile Metrics -->
 <div align="center">
