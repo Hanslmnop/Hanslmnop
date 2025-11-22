@@ -1,49 +1,58 @@
 <div align="center">
 
-<!-- Futuristic ASCII Art -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&duration=4000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=%3E+Hello,+Welcome+To+My+Git+Profile+%F0%9F%91%8B;%3E+Sydney,+Australia+%F0%9F%87%A6%F0%9F%87%BA;%3E+Computer+Science+%26+Chemistry;%3E+Scientific+Computing+%26+ML" alt="Typing Animation" />
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=4000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=Hello,+Welcome+To+My+Git+Profile+%F0%9F%91%8B;Sydney,+Australia+%F0%9F%87%A6%F0%9F%87%BA" alt="Typing Animation" />
 
-<!-- Profile Metrics -->
+
+
+
+
+</div>
+
+## 🎓 Education
+
+- **Bachelor of Computer Science** - Scientific Computing/Machine Learning
+- **Bachelor of Science** - Chemistry
+
+## 🔗 Connect with me
+
+<p align="center">
+  <a href="https://www.leetcode.com/mangomustard" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mangomustard" height="40" width="40" />
+  </a>
+</p>
+
+## 💻 Languages and Tools
+
+<p align="center">
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
 <div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=hanslmnop&label=PROFILE+VISITS&color=00D4FF&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Dynamic/JSON?style=for-the-badge&color=00D4FF&label=REPOSITORIES&query=%24.public_repos&url=https://api.github.com/users/hanslmnop&labelColor=0d1117" alt="Repositories" />
-  
-</div>
 
-<br/>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanslmnop&show_icons=true&locale=en&layout=compact&theme=onedark" alt="hanslmnop" />
+</p>
 
-<!-- Animated Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanslmnop&theme=onedark&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanslmnop&show_icons=true&locale=en&theme=onedark" alt="hanslmnop" />
+</p>
 
-<!-- Programming Languages Graphics -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanslmnop&layout=compact&theme=onedark&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=ffffff" alt="Top Languages" />
-</div>
-
-<!-- Cyber Divider -->
-<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/refs/heads/main/assets/line-neon.gif" width="100%">
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanslmnop&theme=onedark" alt="hanslmnop" />
+</p>
 
 </div>
-
-## 🚀 SYSTEM_PROFILE.exe
-
-```bash
-# TERMINAL OUTPUT
-> whoami
-USER: Hans
-LOCATION: Sydney, AU 🇦🇺
-STATUS: Computer Science & Chemistry Student
-SPECIALIZATION: Scientific Computing & Machine Learning
-
-> cat education.txt
-UNIVERSITY: University of Queensland
-DEGREE_1: Bachelor of Computer Science [2024-Present]
-MAJOR_1: Scientific Computing / Machine Learning
-DEGREE_2: Bachelor of Science [2024-Present]  
-MAJOR_2: Chemistry
-
-> ls skills/
-machine_learning/  data_science/  scientific_computing/  ai_research/
