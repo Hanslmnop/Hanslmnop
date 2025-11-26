@@ -47,12 +47,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanslmnop&show_icons=true&locale=en&layout=compact&theme=onedark" alt="hanslmnop" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanslmnop&show_icons=true&locale=en&theme=onedark" alt="hanslmnop" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanslmnop&theme=onedark" alt="hanslmnop" />
-</p>
 
 </div>
