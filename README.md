@@ -3,10 +3,6 @@
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=4000&color=00D4FF&center=true&vCenter=true&width=800&height=80&lines=Hello,+Welcome+To+My+Git+Profile+%F0%9F%91%8B;Sydney,+Australia+%F0%9F%87%A6%F0%9F%87%BA" alt="Typing Animation" />
 
-
-
-
-
 </div>
 
 ## 🎓 Education
@@ -47,6 +43,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanslmnop&show_icons=true&locale=en&layout=compact&theme=onedark" alt="hanslmnop" />
 </p>
 
-
+<!-- GitHub Profile Trophy -->
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hanslmnop&theme=onedark&no-frame=true&no-bg=true" alt="Trophy" />
+  </a>
+</p>
 
 </div>
