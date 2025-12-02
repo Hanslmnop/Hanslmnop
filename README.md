@@ -21,9 +21,6 @@
   <a href="https://www.leetcode.com/mangomustard" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mangomustard" height="40" width="40" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
-  </a>
 </p>
 
 ## 💻 Tech Stack
@@ -43,14 +40,6 @@
 <!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hanslmnop&theme=onedark&hide_border=true&fire=DD2727&ring=DD2727&currStreakLabel=DD2727" alt="GitHub Streak" />
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hanslmnop&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="hanslmnop's GitHub Stats" height="180" />
-  
-  <!-- Top Languages -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanslmnop&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=html,css,scss,less" alt="Top Languages" height="180" />
 </p>
 
 <!-- GitHub Profile Trophy -->
