@@ -26,11 +26,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,cpp,matlab,git,github,vscode,latex&theme=dark&perline=5" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,html,css,js,react,nodejs,mongodb&theme=dark&perline=5" alt="Additional Tools" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,php,json,haskell,tensorflow,sql,postgresql,ps,ai,latex,git,matlab&theme=dark&perline=6" alt="Tech Stack" />
 </p>
 
 ## 📊 GitHub Stats
@@ -69,5 +65,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanslmnop&theme=github_dark&exclude=Markdown" alt="Most Committed Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanslmnop&theme=github_dark&exclude=Markdown" alt="Repos per Language" />
 </p>
-
-
