@@ -12,7 +12,7 @@
 
 ## 🎓 Education
 
-- **Bachelor of Computer Science** - Scientific Computing/Machine Learning (2024-Present)
+- **Bachelor of Computer Science** - nO mAjoR
 - **Bachelor of Science** - Chemistry (2024-Present)
 
 ## 🔗 Connect with me
