@@ -12,7 +12,7 @@
 
 ## 🎓 Education
 
-- **Bachelor of Computer Science** - No major (2024-Present)
+- **Bachelor of Computer Science** - No Major (2024-Present)
 - **Bachelor of Science** - Chemistry (2024-Present)
 
 ## 🔗 Connect with me
